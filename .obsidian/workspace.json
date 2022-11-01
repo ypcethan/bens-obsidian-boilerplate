@@ -11,8 +11,12 @@
             "id": "494906f65f2a2f9c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/Obsidian workflow.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "right": {
     "id": "85ecf5f9629d0b69",
@@ -89,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/Obsidian workflow.md"
+              }
             }
           },
           {
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/Obsidian workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Obsidian workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "notes/Obsidian workflow.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-path:reports",
@@ -181,15 +189,15 @@
   },
   "active": "494906f65f2a2f9c",
   "lastOpenFiles": [
+    "notes/Build with Ben (027) - Getting Started with Obsidian Theme Development.md",
+    "notes/Obsidian Theme Demo File.md",
+    "notes/Manage Multiple SSH keys.md",
     "README.md",
     "assets/preferences-panel.png",
     "assets/obsidian-prompt.png",
     "notes/Hello World.md",
-    "notes/Obsidian Theme Demo File.md",
     "templates/Book (Template).md",
     "templates/Daily Note (Template).md",
-    "timeline/Daily Notes/2022-11-01.md",
-    "timeline/Weekly Notes/2022-W44.md",
-    "templates/Base Note (Template).md"
+    "timeline/Daily Notes/2022-11-01.md"
   ]
 }

@@ -37,18 +37,9 @@
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
-        "Mod"
+        "Ctrl"
       ],
-      "key": "\\"
-    }
-  ],
-  "app:toggle-right-sidebar": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "\\"
+      "key": "N"
     }
   ],
   "editor:toggle-highlight": [
@@ -251,15 +242,9 @@
   "switcher:open": [
     {
       "modifiers": [
-        "Mod"
+        "Ctrl"
       ],
-      "key": "O"
-    },
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "N"
+      "key": "P"
     }
   ],
   "darlal-switcher-plus:switcher-plus:open": [],
@@ -273,5 +258,14 @@
       "key": "L"
     }
   ],
-  "templater-obsidian:create-new-note-from-template": []
+  "templater-obsidian:create-new-note-from-template": [],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ]
 }

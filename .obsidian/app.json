@@ -105,5 +105,6 @@
   "newFileFolderPath": "notes",
   "legacyEditor": false,
   "livePreview": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "vimMode": true
 }
